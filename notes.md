@@ -8,4 +8,6 @@ git add notes.md
 git commit -m 'add file to repository'
 git log
 git push
+git fetch
+git merge
 git pull
